@@ -1,6 +1,6 @@
-from datetime import datetime 
-
 # Task 1: Get Days From Today
+
+from datetime import datetime 
 
 test_date1= '2020-10-09'
 test_date2 = '2024-10-09'
